@@ -1,2 +1,2 @@
 # Video_Augmentation
-Video Augmentation using Albumentations library
+Iamger and Video Augmentation using Albumentations library for Object Detection and Semantic Segmentation.
